@@ -63,6 +63,12 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-
 }
+/* .jumbotron{
+  padding: 10px 10px;
+  background-color: rgb(255, 255, 255);
+}
+body{
+  background-color: rgb(0, 0, 0);
+} */
 </style>
